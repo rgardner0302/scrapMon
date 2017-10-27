@@ -1,0 +1,24 @@
+.jumbotron {
+
+	background-image: url("nyTimes.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 450px;
+}
+
+ .nyLogo {
+
+	height: 100px;
+	width: auto;
+	align-content: center;
+}
+
+.navbar {
+
+	background-color: blue;
+}
+
+.nav-link {
+
+	float: right;
+}
